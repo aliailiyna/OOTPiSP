@@ -1,0 +1,15 @@
+g:\_4_semestr\3.OOTPiSP\Lab_2\Lab_2_2\Lab_2\Lab_2\bin\Release\Lab_2.exe.config
+g:\_4_semestr\3.OOTPiSP\Lab_2\Lab_2_2\Lab_2\Lab_2\bin\Release\Lab_2.exe
+g:\_4_semestr\3.OOTPiSP\Lab_2\Lab_2_2\Lab_2\Lab_2\bin\Release\Lab_2.pdb
+g:\_4_semestr\3.OOTPiSP\Lab_2\Lab_2_2\Lab_2\Lab_2\bin\Release\ClassLibrary.dll
+g:\_4_semestr\3.OOTPiSP\Lab_2\Lab_2_2\Lab_2\Lab_2\bin\Release\ClassLibraryAttr.dll
+g:\_4_semestr\3.OOTPiSP\Lab_2\Lab_2_2\Lab_2\Lab_2\bin\Release\ClassLibraryAttr.pdb
+g:\_4_semestr\3.OOTPiSP\Lab_2\Lab_2_2\Lab_2\Lab_2\bin\Release\ClassLibrary.pdb
+g:\_4_semestr\3.OOTPiSP\Lab_2\Lab_2_2\Lab_2\Lab_2\obj\Release\Lab_2.csprojAssemblyReference.cache
+g:\_4_semestr\3.OOTPiSP\Lab_2\Lab_2_2\Lab_2\Lab_2\obj\Release\Lab_2.FormObject.resources
+g:\_4_semestr\3.OOTPiSP\Lab_2\Lab_2_2\Lab_2\Lab_2\obj\Release\Lab_2.MainForm.resources
+g:\_4_semestr\3.OOTPiSP\Lab_2\Lab_2_2\Lab_2\Lab_2\obj\Release\Lab_2.Properties.Resources.resources
+g:\_4_semestr\3.OOTPiSP\Lab_2\Lab_2_2\Lab_2\Lab_2\obj\Release\Lab_2.csproj.GenerateResource.cache
+g:\_4_semestr\3.OOTPiSP\Lab_2\Lab_2_2\Lab_2\Lab_2\obj\Release\Lab_2.csproj.CopyComplete
+g:\_4_semestr\3.OOTPiSP\Lab_2\Lab_2_2\Lab_2\Lab_2\obj\Release\Lab_2.exe
+g:\_4_semestr\3.OOTPiSP\Lab_2\Lab_2_2\Lab_2\Lab_2\obj\Release\Lab_2.pdb

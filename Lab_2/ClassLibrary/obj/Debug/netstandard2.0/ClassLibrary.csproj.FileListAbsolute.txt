@@ -1,0 +1,11 @@
+G:\_4_semestr\3.OOTPiSP\Lab_2\Lab_2_2\Lab_2\ClassLibrary\bin\Debug\netstandard2.0\ClassLibrary.deps.json
+G:\_4_semestr\3.OOTPiSP\Lab_2\Lab_2_2\Lab_2\ClassLibrary\bin\Debug\netstandard2.0\ClassLibrary.dll
+G:\_4_semestr\3.OOTPiSP\Lab_2\Lab_2_2\Lab_2\ClassLibrary\bin\Debug\netstandard2.0\ClassLibrary.pdb
+G:\_4_semestr\3.OOTPiSP\Lab_2\Lab_2_2\Lab_2\ClassLibrary\obj\Debug\netstandard2.0\ClassLibrary.AssemblyInfoInputs.cache
+G:\_4_semestr\3.OOTPiSP\Lab_2\Lab_2_2\Lab_2\ClassLibrary\obj\Debug\netstandard2.0\ClassLibrary.AssemblyInfo.cs
+G:\_4_semestr\3.OOTPiSP\Lab_2\Lab_2_2\Lab_2\ClassLibrary\obj\Debug\netstandard2.0\ClassLibrary.dll
+G:\_4_semestr\3.OOTPiSP\Lab_2\Lab_2_2\Lab_2\ClassLibrary\obj\Debug\netstandard2.0\ClassLibrary.pdb
+g:\_4_semestr\3.OOTPiSP\Lab_2\Lab_2_2\Lab_2\ClassLibrary\bin\Debug\netstandard2.0\ClassLibraryAttr.dll
+g:\_4_semestr\3.OOTPiSP\Lab_2\Lab_2_2\Lab_2\ClassLibrary\bin\Debug\netstandard2.0\ClassLibraryAttr.pdb
+g:\_4_semestr\3.OOTPiSP\Lab_2\Lab_2_2\Lab_2\ClassLibrary\obj\Debug\netstandard2.0\ClassLibrary.csprojAssemblyReference.cache
+g:\_4_semestr\3.OOTPiSP\Lab_2\Lab_2_2\Lab_2\ClassLibrary\obj\Debug\netstandard2.0\ClassLibrary.csproj.CopyComplete
