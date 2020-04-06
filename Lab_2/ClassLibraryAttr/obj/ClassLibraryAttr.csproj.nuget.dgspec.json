@@ -1,20 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "g:\\_4_semestr\\3.OOTPiSP\\Lab_2\\Lab_2_2\\Lab_2\\ClassLibraryAttr\\ClassLibraryAttr.csproj": {}
+    "C:\\Users\\evgeny\\Desktop\\TryPull\\OOTPiSP\\Lab_2\\ClassLibraryAttr\\ClassLibraryAttr.csproj": {}
   },
   "projects": {
-    "g:\\_4_semestr\\3.OOTPiSP\\Lab_2\\Lab_2_2\\Lab_2\\ClassLibraryAttr\\ClassLibraryAttr.csproj": {
+    "C:\\Users\\evgeny\\Desktop\\TryPull\\OOTPiSP\\Lab_2\\ClassLibraryAttr\\ClassLibraryAttr.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "g:\\_4_semestr\\3.OOTPiSP\\Lab_2\\Lab_2_2\\Lab_2\\ClassLibraryAttr\\ClassLibraryAttr.csproj",
+        "projectUniqueName": "C:\\Users\\evgeny\\Desktop\\TryPull\\OOTPiSP\\Lab_2\\ClassLibraryAttr\\ClassLibraryAttr.csproj",
         "projectName": "ClassLibraryAttr",
-        "projectPath": "g:\\_4_semestr\\3.OOTPiSP\\Lab_2\\Lab_2_2\\Lab_2\\ClassLibraryAttr\\ClassLibraryAttr.csproj",
-        "packagesPath": "C:\\Users\\Sasha\\.nuget\\packages\\",
-        "outputPath": "g:\\_4_semestr\\3.OOTPiSP\\Lab_2\\Lab_2_2\\Lab_2\\ClassLibraryAttr\\obj\\",
+        "projectPath": "C:\\Users\\evgeny\\Desktop\\TryPull\\OOTPiSP\\Lab_2\\ClassLibraryAttr\\ClassLibraryAttr.csproj",
+        "packagesPath": "C:\\Users\\evgeny\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\evgeny\\Desktop\\TryPull\\OOTPiSP\\Lab_2\\ClassLibraryAttr\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
         "configFilePaths": [
-          "C:\\Users\\Sasha\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\evgeny\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -55,7 +58,7 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.100\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.101\\RuntimeIdentifierGraph.json"
         }
       }
     }
