@@ -10,6 +10,7 @@ using System.Windows.Forms;
 using System.Reflection;
 using ClassLibrary;
 using ClassLibraryAttr;
+using System.IO;
 
 namespace Lab_2
 {
@@ -36,7 +37,8 @@ namespace Lab_2
         private void MainForm_Load(object sender, EventArgs e)
         {
             //@"G:\_4_semestr\3.OOTPiSP\Lab_2\Lab_2_2\Lab_2\ClassLibrary\bin\Debug\netstandard2.0\ClassLibrary.dll"
-            classesAssembly = Assembly.LoadFile(@"G:\_4_semestr\3.OOTPiSP\Lab_2\Lab_2_2\Lab_2\ClassLibrary\bin\Release\netstandard2.0\ClassLibrary.dll");
+            string path = Path.GetFullPath("../../../ClassLibrary/bin/Release/netstandard2.0/ClassLibrary.dll");
+            classesAssembly = Assembly.LoadFile(path);
             classesTypesLibrary = classesAssembly.GetTypes().Where(type => type.IsClass).ToList();
             foreach (Type currentClass in classesTypesLibrary)
             {

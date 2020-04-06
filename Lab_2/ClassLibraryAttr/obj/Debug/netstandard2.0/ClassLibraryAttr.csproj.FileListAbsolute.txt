@@ -6,3 +6,11 @@ G:\_4_semestr\3.OOTPiSP\Lab_2\Lab_2_2\Lab_2\ClassLibraryAttr\obj\Debug\netstanda
 G:\_4_semestr\3.OOTPiSP\Lab_2\Lab_2_2\Lab_2\ClassLibraryAttr\obj\Debug\netstandard2.0\ClassLibraryAttr.dll
 G:\_4_semestr\3.OOTPiSP\Lab_2\Lab_2_2\Lab_2\ClassLibraryAttr\obj\Debug\netstandard2.0\ClassLibraryAttr.pdb
 g:\_4_semestr\3.OOTPiSP\Lab_2\Lab_2_2\Lab_2\ClassLibraryAttr\obj\Debug\netstandard2.0\ClassLibraryAttr.csprojAssemblyReference.cache
+C:\Users\evgeny\Desktop\TryPull\OOTPiSP\Lab_2\ClassLibraryAttr\bin\Debug\netstandard2.0\ClassLibraryAttr.deps.json
+C:\Users\evgeny\Desktop\TryPull\OOTPiSP\Lab_2\ClassLibraryAttr\bin\Debug\netstandard2.0\ClassLibraryAttr.dll
+C:\Users\evgeny\Desktop\TryPull\OOTPiSP\Lab_2\ClassLibraryAttr\bin\Debug\netstandard2.0\ClassLibraryAttr.pdb
+C:\Users\evgeny\Desktop\TryPull\OOTPiSP\Lab_2\ClassLibraryAttr\obj\Debug\netstandard2.0\ClassLibraryAttr.csprojAssemblyReference.cache
+C:\Users\evgeny\Desktop\TryPull\OOTPiSP\Lab_2\ClassLibraryAttr\obj\Debug\netstandard2.0\ClassLibraryAttr.AssemblyInfoInputs.cache
+C:\Users\evgeny\Desktop\TryPull\OOTPiSP\Lab_2\ClassLibraryAttr\obj\Debug\netstandard2.0\ClassLibraryAttr.AssemblyInfo.cs
+C:\Users\evgeny\Desktop\TryPull\OOTPiSP\Lab_2\ClassLibraryAttr\obj\Debug\netstandard2.0\ClassLibraryAttr.dll
+C:\Users\evgeny\Desktop\TryPull\OOTPiSP\Lab_2\ClassLibraryAttr\obj\Debug\netstandard2.0\ClassLibraryAttr.pdb

@@ -9,3 +9,14 @@ g:\_4_semestr\3.OOTPiSP\Lab_2\Lab_2_2\Lab_2\ClassLibrary\bin\Debug\netstandard2.
 g:\_4_semestr\3.OOTPiSP\Lab_2\Lab_2_2\Lab_2\ClassLibrary\bin\Debug\netstandard2.0\ClassLibraryAttr.pdb
 g:\_4_semestr\3.OOTPiSP\Lab_2\Lab_2_2\Lab_2\ClassLibrary\obj\Debug\netstandard2.0\ClassLibrary.csprojAssemblyReference.cache
 g:\_4_semestr\3.OOTPiSP\Lab_2\Lab_2_2\Lab_2\ClassLibrary\obj\Debug\netstandard2.0\ClassLibrary.csproj.CopyComplete
+C:\Users\evgeny\Desktop\TryPull\OOTPiSP\Lab_2\ClassLibrary\bin\Debug\netstandard2.0\ClassLibrary.deps.json
+C:\Users\evgeny\Desktop\TryPull\OOTPiSP\Lab_2\ClassLibrary\bin\Debug\netstandard2.0\ClassLibrary.dll
+C:\Users\evgeny\Desktop\TryPull\OOTPiSP\Lab_2\ClassLibrary\bin\Debug\netstandard2.0\ClassLibrary.pdb
+C:\Users\evgeny\Desktop\TryPull\OOTPiSP\Lab_2\ClassLibrary\bin\Debug\netstandard2.0\ClassLibraryAttr.dll
+C:\Users\evgeny\Desktop\TryPull\OOTPiSP\Lab_2\ClassLibrary\bin\Debug\netstandard2.0\ClassLibraryAttr.pdb
+C:\Users\evgeny\Desktop\TryPull\OOTPiSP\Lab_2\ClassLibrary\obj\Debug\netstandard2.0\ClassLibrary.csprojAssemblyReference.cache
+C:\Users\evgeny\Desktop\TryPull\OOTPiSP\Lab_2\ClassLibrary\obj\Debug\netstandard2.0\ClassLibrary.AssemblyInfoInputs.cache
+C:\Users\evgeny\Desktop\TryPull\OOTPiSP\Lab_2\ClassLibrary\obj\Debug\netstandard2.0\ClassLibrary.AssemblyInfo.cs
+C:\Users\evgeny\Desktop\TryPull\OOTPiSP\Lab_2\ClassLibrary\obj\Debug\netstandard2.0\ClassLibrary.csproj.CopyComplete
+C:\Users\evgeny\Desktop\TryPull\OOTPiSP\Lab_2\ClassLibrary\obj\Debug\netstandard2.0\ClassLibrary.dll
+C:\Users\evgeny\Desktop\TryPull\OOTPiSP\Lab_2\ClassLibrary\obj\Debug\netstandard2.0\ClassLibrary.pdb
