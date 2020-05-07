@@ -1,0 +1,8 @@
+d:\OOTPiSP\Lab_3\ISerializationClassLibrary\bin\Release\netstandard2.0\ISerializationClassLibrary.deps.json
+d:\OOTPiSP\Lab_3\ISerializationClassLibrary\bin\Release\netstandard2.0\ISerializationClassLibrary.dll
+d:\OOTPiSP\Lab_3\ISerializationClassLibrary\bin\Release\netstandard2.0\ISerializationClassLibrary.pdb
+d:\OOTPiSP\Lab_3\ISerializationClassLibrary\obj\Release\netstandard2.0\ISerializationClassLibrary.csproj.CoreCompileInputs.cache
+d:\OOTPiSP\Lab_3\ISerializationClassLibrary\obj\Release\netstandard2.0\ISerializationClassLibrary.AssemblyInfoInputs.cache
+d:\OOTPiSP\Lab_3\ISerializationClassLibrary\obj\Release\netstandard2.0\ISerializationClassLibrary.AssemblyInfo.cs
+d:\OOTPiSP\Lab_3\ISerializationClassLibrary\obj\Release\netstandard2.0\ISerializationClassLibrary.dll
+d:\OOTPiSP\Lab_3\ISerializationClassLibrary\obj\Release\netstandard2.0\ISerializationClassLibrary.pdb

@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "+wv7xq95o3yXal2BIbGCJwtW64rnXbS4ITtHsjSN0YL+WridsG9fdpT4BBZFx9P1MgnYTBCExtc15rfe7zhdEw==",
+  "success": true,
+  "projectFilePath": "d:\\OOTPiSP\\Lab_3\\SerializationClassLibrary\\SerializationClassLibrary.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Alia\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Alia\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\Alia\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

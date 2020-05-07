@@ -1,0 +1,8 @@
+D:\OOTPiSP\Lab_3\FurnitureListLibrary\bin\Debug\netstandard2.0\FurnitureListLibrary.deps.json
+D:\OOTPiSP\Lab_3\FurnitureListLibrary\bin\Debug\netstandard2.0\FurnitureListLibrary.dll
+D:\OOTPiSP\Lab_3\FurnitureListLibrary\bin\Debug\netstandard2.0\FurnitureListLibrary.pdb
+D:\OOTPiSP\Lab_3\FurnitureListLibrary\obj\Debug\netstandard2.0\FurnitureListLibrary.csproj.CoreCompileInputs.cache
+D:\OOTPiSP\Lab_3\FurnitureListLibrary\obj\Debug\netstandard2.0\FurnitureListLibrary.AssemblyInfoInputs.cache
+D:\OOTPiSP\Lab_3\FurnitureListLibrary\obj\Debug\netstandard2.0\FurnitureListLibrary.AssemblyInfo.cs
+D:\OOTPiSP\Lab_3\FurnitureListLibrary\obj\Debug\netstandard2.0\FurnitureListLibrary.dll
+D:\OOTPiSP\Lab_3\FurnitureListLibrary\obj\Debug\netstandard2.0\FurnitureListLibrary.pdb
