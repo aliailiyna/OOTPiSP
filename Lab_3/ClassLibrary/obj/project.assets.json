@@ -201,11 +201,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "d:\\OOTPiSP\\Lab_3\\ClassLibrary\\ClassLibrary.csproj",
+      "projectUniqueName": "g:\\OOTPiSP\\Lab_3\\ClassLibrary\\ClassLibrary.csproj",
       "projectName": "ClassLibrary",
-      "projectPath": "d:\\OOTPiSP\\Lab_3\\ClassLibrary\\ClassLibrary.csproj",
+      "projectPath": "g:\\OOTPiSP\\Lab_3\\ClassLibrary\\ClassLibrary.csproj",
       "packagesPath": "C:\\Users\\Alia\\.nuget\\packages\\",
-      "outputPath": "d:\\OOTPiSP\\Lab_3\\ClassLibrary\\obj\\",
+      "outputPath": "g:\\OOTPiSP\\Lab_3\\ClassLibrary\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Alia\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -221,8 +221,8 @@
       "frameworks": {
         "netstandard2.0": {
           "projectReferences": {
-            "d:\\OOTPiSP\\Lab_3\\ClassLibraryAttr\\ClassLibraryAttr.csproj": {
-              "projectPath": "d:\\OOTPiSP\\Lab_3\\ClassLibraryAttr\\ClassLibraryAttr.csproj"
+            "g:\\OOTPiSP\\Lab_3\\ClassLibraryAttr\\ClassLibraryAttr.csproj": {
+              "projectPath": "g:\\OOTPiSP\\Lab_3\\ClassLibraryAttr\\ClassLibraryAttr.csproj"
             }
           }
         }

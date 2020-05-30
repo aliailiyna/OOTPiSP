@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "8SGP0PQ9ijAOz0JzFB3F0aAhmHfUIjKa0tIZb6cB98+ntBgl3U+1Xl3mYenTqMkKPOKdjvqnv6eVwR/llRl9WA==",
+  "dgSpecHash": "FLiCJ2idbsDIqTimd7wF4KBUrCpfM6DUY120VxNgyHxNaJCpMcRy4qtbwSHbiflBuOEPgzZ6Wc0zDlOmXVciJg==",
   "success": true,
-  "projectFilePath": "d:\\OOTPiSP\\Lab_3\\FurnitureListLibrary\\FurnitureListLibrary.csproj",
+  "projectFilePath": "g:\\OOTPiSP\\Lab_3\\FurnitureListLibrary\\FurnitureListLibrary.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Alia\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
     "C:\\Users\\Alia\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"

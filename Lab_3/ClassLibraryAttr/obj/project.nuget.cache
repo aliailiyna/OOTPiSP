@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "NHnjwwJhBoqZJj7mxm6fwyGuVB00QFJsYIY9UL6sNRnTElONCM+AQXuuyG30OvL6rl7tIskd8yq+H8BTecWPVA==",
+  "dgSpecHash": "51Zn5n6DfvzcXd4bPurJUes1NK7DvqIt+nBAv+ownY7S82Jfx8Z9/LmLN+fMhgkPUKS9muTWcBWqx4ydAp2MQg==",
   "success": true,
-  "projectFilePath": "d:\\OOTPiSP\\Lab_3\\ClassLibraryAttr\\ClassLibraryAttr.csproj",
+  "projectFilePath": "g:\\OOTPiSP\\Lab_3\\ClassLibraryAttr\\ClassLibraryAttr.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Alia\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
     "C:\\Users\\Alia\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"

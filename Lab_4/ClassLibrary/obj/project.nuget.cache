@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "0X3xDVoL5k9TDawWWv9CoK6LH2W9W/rHXE2nW+dRYpeGwfaALglp/nEht93kCZJ8dJUTgVua+0OPyBoC9kihxA==",
+  "success": true,
+  "projectFilePath": "d:\\OOTPiSP\\Lab_4\\ClassLibrary\\ClassLibrary.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Alia\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Alia\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

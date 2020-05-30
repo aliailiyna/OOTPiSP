@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "d:\\OOTPiSP\\Lab_3\\SerializationClassLibrary\\SerializationClassLibrary.csproj": {}
+    "g:\\OOTPiSP\\Lab_3\\SerializationClassLibrary\\SerializationClassLibrary.csproj": {}
   },
   "projects": {
-    "d:\\OOTPiSP\\Lab_3\\ClassLibraryAttr\\ClassLibraryAttr.csproj": {
+    "g:\\OOTPiSP\\Lab_3\\ClassLibraryAttr\\ClassLibraryAttr.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "d:\\OOTPiSP\\Lab_3\\ClassLibraryAttr\\ClassLibraryAttr.csproj",
+        "projectUniqueName": "g:\\OOTPiSP\\Lab_3\\ClassLibraryAttr\\ClassLibraryAttr.csproj",
         "projectName": "ClassLibraryAttr",
-        "projectPath": "d:\\OOTPiSP\\Lab_3\\ClassLibraryAttr\\ClassLibraryAttr.csproj",
+        "projectPath": "g:\\OOTPiSP\\Lab_3\\ClassLibraryAttr\\ClassLibraryAttr.csproj",
         "packagesPath": "C:\\Users\\Alia\\.nuget\\packages\\",
-        "outputPath": "d:\\OOTPiSP\\Lab_3\\ClassLibraryAttr\\obj\\",
+        "outputPath": "g:\\OOTPiSP\\Lab_3\\ClassLibraryAttr\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Alia\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -59,14 +59,14 @@
         }
       }
     },
-    "d:\\OOTPiSP\\Lab_3\\ISerializationClassLibrary\\ISerializationClassLibrary.csproj": {
+    "g:\\OOTPiSP\\Lab_3\\ISerializationClassLibrary\\ISerializationClassLibrary.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "d:\\OOTPiSP\\Lab_3\\ISerializationClassLibrary\\ISerializationClassLibrary.csproj",
+        "projectUniqueName": "g:\\OOTPiSP\\Lab_3\\ISerializationClassLibrary\\ISerializationClassLibrary.csproj",
         "projectName": "ISerializationClassLibrary",
-        "projectPath": "d:\\OOTPiSP\\Lab_3\\ISerializationClassLibrary\\ISerializationClassLibrary.csproj",
+        "projectPath": "g:\\OOTPiSP\\Lab_3\\ISerializationClassLibrary\\ISerializationClassLibrary.csproj",
         "packagesPath": "C:\\Users\\Alia\\.nuget\\packages\\",
-        "outputPath": "d:\\OOTPiSP\\Lab_3\\ISerializationClassLibrary\\obj\\",
+        "outputPath": "g:\\OOTPiSP\\Lab_3\\ISerializationClassLibrary\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Alia\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -114,14 +114,14 @@
         }
       }
     },
-    "d:\\OOTPiSP\\Lab_3\\SerializationClassLibrary\\SerializationClassLibrary.csproj": {
+    "g:\\OOTPiSP\\Lab_3\\SerializationClassLibrary\\SerializationClassLibrary.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "d:\\OOTPiSP\\Lab_3\\SerializationClassLibrary\\SerializationClassLibrary.csproj",
+        "projectUniqueName": "g:\\OOTPiSP\\Lab_3\\SerializationClassLibrary\\SerializationClassLibrary.csproj",
         "projectName": "SerializationClassLibrary",
-        "projectPath": "d:\\OOTPiSP\\Lab_3\\SerializationClassLibrary\\SerializationClassLibrary.csproj",
+        "projectPath": "g:\\OOTPiSP\\Lab_3\\SerializationClassLibrary\\SerializationClassLibrary.csproj",
         "packagesPath": "C:\\Users\\Alia\\.nuget\\packages\\",
-        "outputPath": "d:\\OOTPiSP\\Lab_3\\SerializationClassLibrary\\obj\\",
+        "outputPath": "g:\\OOTPiSP\\Lab_3\\SerializationClassLibrary\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Alia\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -137,11 +137,11 @@
         "frameworks": {
           "netstandard2.0": {
             "projectReferences": {
-              "d:\\OOTPiSP\\Lab_3\\ClassLibraryAttr\\ClassLibraryAttr.csproj": {
-                "projectPath": "d:\\OOTPiSP\\Lab_3\\ClassLibraryAttr\\ClassLibraryAttr.csproj"
+              "g:\\OOTPiSP\\Lab_3\\ClassLibraryAttr\\ClassLibraryAttr.csproj": {
+                "projectPath": "g:\\OOTPiSP\\Lab_3\\ClassLibraryAttr\\ClassLibraryAttr.csproj"
               },
-              "d:\\OOTPiSP\\Lab_3\\ISerializationClassLibrary\\ISerializationClassLibrary.csproj": {
-                "projectPath": "d:\\OOTPiSP\\Lab_3\\ISerializationClassLibrary\\ISerializationClassLibrary.csproj"
+              "g:\\OOTPiSP\\Lab_3\\ISerializationClassLibrary\\ISerializationClassLibrary.csproj": {
+                "projectPath": "g:\\OOTPiSP\\Lab_3\\ISerializationClassLibrary\\ISerializationClassLibrary.csproj"
               }
             }
           }

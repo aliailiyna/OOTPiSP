@@ -1,0 +1,7 @@
+G:\_4_semestr\3.OOTPiSP\Lab_4\IPlugin\bin\Debug\netstandard2.0\IPlugin.deps.json
+G:\_4_semestr\3.OOTPiSP\Lab_4\IPlugin\bin\Debug\netstandard2.0\IPlugin.dll
+G:\_4_semestr\3.OOTPiSP\Lab_4\IPlugin\bin\Debug\netstandard2.0\IPlugin.pdb
+G:\_4_semestr\3.OOTPiSP\Lab_4\IPlugin\obj\Debug\netstandard2.0\IPlugin.AssemblyInfoInputs.cache
+G:\_4_semestr\3.OOTPiSP\Lab_4\IPlugin\obj\Debug\netstandard2.0\IPlugin.AssemblyInfo.cs
+G:\_4_semestr\3.OOTPiSP\Lab_4\IPlugin\obj\Debug\netstandard2.0\IPlugin.dll
+G:\_4_semestr\3.OOTPiSP\Lab_4\IPlugin\obj\Debug\netstandard2.0\IPlugin.pdb

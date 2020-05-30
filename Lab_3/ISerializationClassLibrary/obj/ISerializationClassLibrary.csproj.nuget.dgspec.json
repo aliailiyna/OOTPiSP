@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "d:\\OOTPiSP\\Lab_3\\ISerializationClassLibrary\\ISerializationClassLibrary.csproj": {}
+    "g:\\OOTPiSP\\Lab_3\\ISerializationClassLibrary\\ISerializationClassLibrary.csproj": {}
   },
   "projects": {
-    "d:\\OOTPiSP\\Lab_3\\ISerializationClassLibrary\\ISerializationClassLibrary.csproj": {
+    "g:\\OOTPiSP\\Lab_3\\ISerializationClassLibrary\\ISerializationClassLibrary.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "d:\\OOTPiSP\\Lab_3\\ISerializationClassLibrary\\ISerializationClassLibrary.csproj",
+        "projectUniqueName": "g:\\OOTPiSP\\Lab_3\\ISerializationClassLibrary\\ISerializationClassLibrary.csproj",
         "projectName": "ISerializationClassLibrary",
-        "projectPath": "d:\\OOTPiSP\\Lab_3\\ISerializationClassLibrary\\ISerializationClassLibrary.csproj",
+        "projectPath": "g:\\OOTPiSP\\Lab_3\\ISerializationClassLibrary\\ISerializationClassLibrary.csproj",
         "packagesPath": "C:\\Users\\Alia\\.nuget\\packages\\",
-        "outputPath": "d:\\OOTPiSP\\Lab_3\\ISerializationClassLibrary\\obj\\",
+        "outputPath": "g:\\OOTPiSP\\Lab_3\\ISerializationClassLibrary\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Alia\\AppData\\Roaming\\NuGet\\NuGet.Config",

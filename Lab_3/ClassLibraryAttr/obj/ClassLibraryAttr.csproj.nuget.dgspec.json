@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "d:\\OOTPiSP\\Lab_3\\ClassLibraryAttr\\ClassLibraryAttr.csproj": {}
+    "g:\\OOTPiSP\\Lab_3\\ClassLibraryAttr\\ClassLibraryAttr.csproj": {}
   },
   "projects": {
-    "d:\\OOTPiSP\\Lab_3\\ClassLibraryAttr\\ClassLibraryAttr.csproj": {
+    "g:\\OOTPiSP\\Lab_3\\ClassLibraryAttr\\ClassLibraryAttr.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "d:\\OOTPiSP\\Lab_3\\ClassLibraryAttr\\ClassLibraryAttr.csproj",
+        "projectUniqueName": "g:\\OOTPiSP\\Lab_3\\ClassLibraryAttr\\ClassLibraryAttr.csproj",
         "projectName": "ClassLibraryAttr",
-        "projectPath": "d:\\OOTPiSP\\Lab_3\\ClassLibraryAttr\\ClassLibraryAttr.csproj",
+        "projectPath": "g:\\OOTPiSP\\Lab_3\\ClassLibraryAttr\\ClassLibraryAttr.csproj",
         "packagesPath": "C:\\Users\\Alia\\.nuget\\packages\\",
-        "outputPath": "d:\\OOTPiSP\\Lab_3\\ClassLibraryAttr\\obj\\",
+        "outputPath": "g:\\OOTPiSP\\Lab_3\\ClassLibraryAttr\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Alia\\AppData\\Roaming\\NuGet\\NuGet.Config",

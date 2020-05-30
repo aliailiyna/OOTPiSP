@@ -184,11 +184,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "d:\\OOTPiSP\\Lab_3\\FurnitureListLibrary\\FurnitureListLibrary.csproj",
+      "projectUniqueName": "g:\\OOTPiSP\\Lab_3\\FurnitureListLibrary\\FurnitureListLibrary.csproj",
       "projectName": "FurnitureListLibrary",
-      "projectPath": "d:\\OOTPiSP\\Lab_3\\FurnitureListLibrary\\FurnitureListLibrary.csproj",
+      "projectPath": "g:\\OOTPiSP\\Lab_3\\FurnitureListLibrary\\FurnitureListLibrary.csproj",
       "packagesPath": "C:\\Users\\Alia\\.nuget\\packages\\",
-      "outputPath": "d:\\OOTPiSP\\Lab_3\\FurnitureListLibrary\\obj\\",
+      "outputPath": "g:\\OOTPiSP\\Lab_3\\FurnitureListLibrary\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Alia\\AppData\\Roaming\\NuGet\\NuGet.Config",

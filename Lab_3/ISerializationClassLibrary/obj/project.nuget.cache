@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "VEmofy0AwPQM29ky3UCwUeTVxJJCE2fmQLXvICaaGyLfn1FT0KTf3dkFaJ5+fkvwrdZOJD4qo5KhiC2ta7mnQw==",
+  "dgSpecHash": "+I2QDtkpETJJ9keqtjP6hpEObEDpnIt6xGV4Q3Cj3KAwEXyfwPk1mqqcTQhC0anxVMfjZu2EQ7Wc2FQrMIklOw==",
   "success": true,
-  "projectFilePath": "d:\\OOTPiSP\\Lab_3\\ISerializationClassLibrary\\ISerializationClassLibrary.csproj",
+  "projectFilePath": "g:\\OOTPiSP\\Lab_3\\ISerializationClassLibrary\\ISerializationClassLibrary.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Alia\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
     "C:\\Users\\Alia\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
