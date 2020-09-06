@@ -1,8 +1,0 @@
-G:\_4_semestr\3.OOTPiSP\Lab_2\Lab_2_2\Lab_2\ClassLibraryAttr\bin\Debug\netstandard2.0\ClassLibraryAttr.deps.json
-G:\_4_semestr\3.OOTPiSP\Lab_2\Lab_2_2\Lab_2\ClassLibraryAttr\bin\Debug\netstandard2.0\ClassLibraryAttr.dll
-G:\_4_semestr\3.OOTPiSP\Lab_2\Lab_2_2\Lab_2\ClassLibraryAttr\bin\Debug\netstandard2.0\ClassLibraryAttr.pdb
-G:\_4_semestr\3.OOTPiSP\Lab_2\Lab_2_2\Lab_2\ClassLibraryAttr\obj\Debug\netstandard2.0\ClassLibraryAttr.AssemblyInfoInputs.cache
-G:\_4_semestr\3.OOTPiSP\Lab_2\Lab_2_2\Lab_2\ClassLibraryAttr\obj\Debug\netstandard2.0\ClassLibraryAttr.AssemblyInfo.cs
-G:\_4_semestr\3.OOTPiSP\Lab_2\Lab_2_2\Lab_2\ClassLibraryAttr\obj\Debug\netstandard2.0\ClassLibraryAttr.dll
-G:\_4_semestr\3.OOTPiSP\Lab_2\Lab_2_2\Lab_2\ClassLibraryAttr\obj\Debug\netstandard2.0\ClassLibraryAttr.pdb
-g:\_4_semestr\3.OOTPiSP\Lab_2\Lab_2_2\Lab_2\ClassLibraryAttr\obj\Debug\netstandard2.0\ClassLibraryAttr.csprojAssemblyReference.cache
